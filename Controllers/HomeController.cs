@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using TP3REAL.Models;
 
+
 namespace TP3REAL.Controllers
 {
     public class HomeController : Controller
@@ -26,6 +27,10 @@ namespace TP3REAL.Controllers
         public IActionResult Privacy()
         {
             return View();
+        }
+        public IActionResult PessoaInfo()
+        {
+            return View("Index");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

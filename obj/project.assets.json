@@ -8124,23 +8124,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\guilherme.nascimento\\.nuget\\packages\\": {},
+    "C:\\Users\\PICHAU\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.nascimento\\source\\repos\\TP3REAL\\TP3REAL.csproj",
+      "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\FAculdade\\C#\\.NET\\TP3REAL\\TP3REAL.csproj",
       "projectName": "TP3REAL",
-      "projectPath": "C:\\Users\\guilherme.nascimento\\source\\repos\\TP3REAL\\TP3REAL.csproj",
-      "packagesPath": "C:\\Users\\guilherme.nascimento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.nascimento\\source\\repos\\TP3REAL\\obj\\",
+      "projectPath": "C:\\Users\\PICHAU\\Desktop\\FAculdade\\C#\\.NET\\TP3REAL\\TP3REAL.csproj",
+      "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PICHAU\\Desktop\\FAculdade\\C#\\.NET\\TP3REAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\guilherme.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -8201,7 +8201,15 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.0.2, 3.0.2]"
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
           }
         ],
         "frameworkReferences": {
@@ -8212,7 +8220,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
